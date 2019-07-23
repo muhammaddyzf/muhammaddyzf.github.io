@@ -1,120 +1,290 @@
-# Hello
+<h2 class="orange-text">WEB DEVELOPER</h2>
+<h2 class="orange-text">IN 2019</h2>
+<small class="text-muted">TIME TO DECIDE WHICH SIDE YOU'RE ON</small>
 
-### I'M MUHAMMAD RAIHAN NISMARA JENDRA
-
----
-
-## Tips!
-
-<br>
-
-@fa[arrows gp-tip](Press F to go Fullscreen)
-
-@fa[microphone gp-tip](Press S for Speaker Notes)
+<!-- ### A GitPitch Presentation Template -->
 
 ---
-
-## Template Features
-
-- Code Presenting |
-- Repo Source, Static Blocks, GIST |
-- Custom CSS Styling |
-- Slideshow Background Image |
-- Slide-specific Background Images |
-- Custom Logo, TOC, and Footnotes |
-
----?code=sample/go/server.go&lang=golang&title=Golang File
-
-@[1,3-6](Present code found within any repo source file.)
-@[8-18](Without ever leaving your slideshow.)
-@[19-28](Using GitPitch code-presenting with (optional) annotations.)
-
----
-
-@title[JavaScript Block]
-
-<p><span class="slide-title">JavaScript Block</span></p>
-
-```javascript
-// Include http module.
-var http = require("http");
-
-// Create the server. Function passed as parameter
-// is called on every request made.
-http.createServer(function (request, response) {
-  // Attach listener on end event.  This event is
-  // called when client sent, awaiting response.
-  request.on("end", function () {
-    // Write headers to the response.
-    // HTTP 200 status, Content-Type text/plain.
-    response.writeHead(200, {
-      'Content-Type': 'text/plain'
-    });
-    // Send data and end response.
-    response.end('Hello HTTP!');
-  });
-
-// Listen on the 8080 port.
-}).listen(8080);
-```
-
-@[1,2](You can present code inlined within your slide markdown too.)
-@[9-17](Displayed using code-syntax highlighting just like your IDE.)
-@[19-20](Again, all of this without ever leaving your slideshow.)
-
----?gist=onetapbeyond/494e0fecaf0d6a2aa2acadfb8eb9d6e8&lang=scala&title=Scala GIST
-
-@[23](You can even present code found within any GitHub GIST.)
-@[41-53](GIST source code is beautifully rendered on any slide.)
-@[57-62](And code-presenting works seamlessly for GIST too, both online and offline.)
-
----
-
-## Template Help
-
-- [Code Presenting](https://github.com/gitpitch/gitpitch/wiki/Code-Presenting)
-  + [Repo Source](https://github.com/gitpitch/gitpitch/wiki/Code-Delimiter-Slides), [Static Blocks](https://github.com/gitpitch/gitpitch/wiki/Code-Slides), [GIST](https://github.com/gitpitch/gitpitch/wiki/GIST-Slides) 
-- [Custom CSS Styling](https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS)
-- [Slideshow Background Image](https://github.com/gitpitch/gitpitch/wiki/Background-Setting)
-- [Slide-specific Background Images](https://github.com/gitpitch/gitpitch/wiki/Image-Slides#background)
-- [Custom Logo](https://github.com/gitpitch/gitpitch/wiki/Logo-Setting), [TOC](https://github.com/gitpitch/gitpitch/wiki/Table-of-Contents), and [Footnotes](https://github.com/gitpitch/gitpitch/wiki/Footnote-Setting)
-
----
-
-## Go GitPitch Pro!
-
-<br>
 <div class="left">
-    <i class="fa fa-user-secret fa-5x" aria-hidden="true"> </i><br>
-    <a href="https://gitpitch.com/pro-features" class="pro-link">
-    More details here.</a>
+![Image](./assets/md/assets/me-ednovate.png)
 </div>
 <div class="right">
-    <ul>
-        <li>Private Repos</li>
-        <li>Private URLs</li>
-        <li>Password-Protection</li>
-        <li>Image Opacity</li>
-        <li>SVG Image Support</li>
-    </ul>
+<br />
+<br />
+<h4 class="text-info">Muhammad Raihan Nismara Jendra</h4>
+<small class="text-muted"><i class="fa fa-smile-o"></i> Web Developer</small><br />
+<small class="text-muted"><i class="fa fa-building-o"></i> Belanjaqu</small><br />
+<small class="text-muted"><i class="fa fa-globe"></i> raihan71.github.io</small>
 </div>
 
 ---
+![Image](./assets/md/assets/great-frontend.png)
 
-### Questions?
+## FRONT END DEVELOPER
 
-<br>
+---
+<!-- .slide: data-background-image="./assets/md/assets/roadmap-fe.png" data-background-color="#fff" data-background-size="auto 95%" data-background-position="center" data-background-repeat=" " data-background-transition="none" -->
 
-@fa[twitter gp-contact](@gitpitch)
+---
+## FRONT END - SECTION
 
-@fa[github gp-contact](gitpitch)
+- Introduction  <!-- .element: class="fragment" -->
+- Learn the basic  <!-- .element: class="fragment" -->
+- Getting deeper  <!-- .element: class="fragment" -->
+- Choose framework  <!-- .element: class="fragment" -->
+- Live Coding  <!-- .element: class="fragment" -->
 
-@fa[medium gp-contact](@gitpitch)
+---
+## INTRODUCTION
+<small>Overview Front-End</small> <!-- .element: class="fragment" -->
+---
 
----?image=assets/image/gitpitch-audience.jpg
+<!-- .slide: data-background-image="./assets/md/assets/fb.jpg" data-background="#3d5d9a" data-background-size="auto 95%" data-background-position="center" data-background-repeat=" " data-background-transition="none" --> <!-- .element: class="fragment" -->
 
-@title[Download this Template!]
+---
 
-### Get your presentation started!
-### [Download this template @fa[external-link gp-download]](https://gitpitch.com/template/download/netflix)
+<!-- .slide: data-background-image="./assets/md/assets/ig.jpg" data-background="#ab368e" data-background-size="auto 95%" data-background-position="center" data-background-repeat=" " data-background-transition="none" --> <!-- .element: class="fragment" -->
 
+---
+<p class="text-justify">Front-end web development adalah metode untuk mengonversikan data ke dalam antarmuka pengguna atau tampilan suatu aplikasi/website. Sehingga, pengguna dapat berinteraksi dengan data melalui interaksi visual & digital.</p>
+---
+<div class="left">
+![Image](./assets/md/assets/person-flat.png)
+</div>
+<div class="right">
+![Image](./assets/md/assets/code-flat.png)
+</div>
+<br />
+<h3>Front End Developer</h3><!-- .element: class="fragment" -->
+---
+## LEARN THE BASIC
+<small>HTML,CSS,JS</small> <!-- .element: class="fragment" -->
+---
+  <table class="table table-bordered table-hover table-striped bg-info">
+    <thead>
+      <tr>
+        <th colspan="3" align="center">FRONT-END</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">HTML</td>
+        <td align="center">CSS</td>
+        <td align="center">JS</td>
+      </tr>
+    </tbody>
+  </table>
+---
+<span class='menu-title slide-title'>HTML Syntax</span>
+```html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Web Developer</title>
+</head>
+<body>
+
+</body>
+</html>
+
+```
+---
+<span class='menu-title slide-title'>CSS Syntax</span>
+```css
+<style>
+  small {
+    color: orange;
+    font-size: 10px;
+  }
+</style>
+```
+
+<div class="left text-info">
+<p>small = selector</p> <!-- .element: class="fragment" -->
+</div>
+<div class="right" style="color:grey">
+<p>{ } = declaration</p> <!-- .element: class="fragment" -->
+</div>
+<div class="left" style="color:purple">
+<p>color = property</p> <!-- .element: class="fragment" -->
+</div>
+<div class="right text-danger">
+<p>orange = value</p> <!-- .element: class="fragment" -->
+</div>
+
+---
+<span class='menu-title slide-title'>JS Syntax</span>
+```
+<script>
+  var x, y, z;         // Cara deklarasi variable
+  x = 10; y = 20;   // Cara memberikan nilai/value
+  z = x + y;        // Cara menghitung nilai/value
+
+  alert(z);   // Menampilkan hasil
+</script>
+
+```
+<div class="left text-info">
+<p>alert</p> <!-- .element: class="fragment" -->
+</div>
+<div class="right" style="color:grey">
+<p>console.log</p> <!-- .element: class="fragment" -->
+</div>
+---
+<span class='menu-title slide-title'>Full Syntax</span>
+```
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Web Developer</title>
+  <style>
+    small {
+      color: orange;
+      font-size: 10px;
+    }
+  </style>
+</head>
+<body>
+  <small>Hello World</small> -Ray
+
+  <script>
+    var x, y;         // Cara deklarasi variable
+    x = 10; y = 20;   // Cara memberikan nilai/value
+    z = x + y;        // Cara menghitung nilai/value
+
+    alert(z);         // Menampilkan hasil
+  </script>
+</body>
+</html>
+```
+---
+## Getting Deeper
+<small>With Front-End</small> <!-- .element: class="fragment" -->
+---
+### TOOLS
+<div class="left">
+  ![Image](./assets/md/assets/sublime.png)<!-- .element: class="fragment" -->
+</div>
+<div class="right">
+  ![Image](./assets/md/assets/dw.png)<!-- .element: class="fragment" -->
+</div>
+<div class="left">
+  ![Image](./assets/md/assets/gc.png)<!-- .element: class="fragment" -->
+</div>
+<div class="right">
+  ![Image](./assets/md/assets/git.png)<!-- .element: class="fragment" -->
+</div>
+---
+## Technique
+### Css Internal Style
+```
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Technique Css</title>
+  <style>
+    small {
+      color: orange;
+    }
+  </style>
+</head>
+<body>
+
+</body>
+</html>
+```
+---
+### Css Inline Style
+```
+<body>
+  <small style="color: orange;">Hello World</small>
+</body>
+```
+---
+### Css External Style
+<small>index.html</small>
+```
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Technique Css</title>
+  <link rel="stylesheet" type="text/css" href="small.css">
+</head>
+```
+<small>small.css</small>
+```
+small {
+    color: orange;
+}
+```
+---
+## Programming paradigm
+
+---
+<p class="text-justify">Programming paradigm adalah suatu cara untuk mengklasifikasikan bahasa pemrograman berdasarkan tujuan, keutamaan/fitur software yang akan dibuat.</p>
+  <p>Contoh :</p> <!-- .element: class="fragment" -->
+- Functional Programming<!-- .element: class="fragment" -->
+- Object-oriented Programming<!-- .element: class="fragment" -->
+- Procedural Programming<!-- .element: class="fragment" -->
+- Imperative Programming,dsb.<!-- .element: class="fragment" -->
+---
+### Object-oriented Programming (OOP)
+---
+<div class="left">
+<p class="text-justify">OOP yaitu suatu metode/paradigma pemrograman yang berorientasi kepada objek. Tujuannya untuk mempermudah pengembangan suatu program/aplikasi dengan mengikuti model yang telah ada di kehidupan sehari-hari.</p>
+</div>
+<br />
+<br />
+<br />
+<div class="right">
+  ![Image](./assets/md/assets/oop.png)<!-- .element: class="fragment" -->
+</div>
+---
+## Architectural pattern
+---
+<p class="text-justify">
+  <i>Architectural pattern</i> adalah solusi untuk menyelesaikan masalah yang sering terjadi dalam <i>software architecture</i> ketika akan atau sedang mengembangkan suatu aplikasi/program.
+</p>
+<p>Contoh :</p> <!-- .element: class="fragment" -->
+- Naked objects <!-- .element: class="fragment" -->
+- Microservices <!-- .element: class="fragment" -->
+- MVC <!-- .element: class="fragment" -->
+- MVP <!-- .element: class="fragment" -->
+- MVVM <!-- .element: class="fragment" -->
+---
+### Model-view-controller (MVC)
+<p><i>Model-view-controller</i> adalah sebuah metode untuk membuat/membangun sebuah aplikasi dengan memisahkan antar data <i>(Model)</i> dari tampilan <i>(View)</i> dengan bagaimana pemrosesan <i>(Controller)</i> aplikasi itu sendiri.</p> <!-- .element: class="fragment" -->
+---
+![Image](./assets/md/assets/mvc.png)
+---
+## Framework
+---
+<p class="text-justify">Framework adalah sebuah kerangka aplikasi untuk memudahkan para programer untuk membuat sebuah aplikasi yang di dalam nya ada berbagai fungsi diantaranya plugin, dan konsep untuk membentuk suatu sistem tertentu agar tersusun dan tersetruktur dengan rapi.</p>
+---
+<table class="table  table-bordered table-hover">
+  <thead>
+    <tr>
+      <th class="bg-primary" align="center" colspan="4">FRONT-END FRAMEWORKS</th>
+    </tr>
+    <tbody>
+      <tr>
+        <td class="bg-info" align="center">CSS</td>
+        <td align="center">![Image](./assets/md/assets/bootstrap.png)</td>
+        <td align="center">![Image](./assets/md/assets/zf.jpg)</td>
+        <td align="center">![Image](./assets/md/assets/material.png)</td>
+      </tr>
+      <tr>
+        <td class="bg-info" align="center">JS</td>
+        <td align="center">![Image](./assets/md/assets/angular.png)</td>
+        <td align="center">![Image](./assets/md/assets/vue.png)</td>
+        <td align="center">![Image](./assets/md/assets/ember.png)</td>
+      </tr>
+    </tbody>
+  </thead>
+</table>
+---
+<small>Thank You</small><br />
+<a href="https://madewithvuejs.com/games" target="_new"> Created with Vuejs</a>
+<p>
+  <a href="https://experiments.withgoogle.com/collection/chrome" target="_new"> Created by Google based web</a>
+</p>
