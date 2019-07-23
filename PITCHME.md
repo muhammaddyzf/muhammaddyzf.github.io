@@ -6,7 +6,7 @@
 
 ---
 <div class="left">
-![Image](./assets/md/assets/me-ednovate.png)
+![Image](./assets/me-ednovate.png)
 </div>
 <div class="right">
 <br />
@@ -18,12 +18,12 @@
 </div>
 
 ---
-![Image](./assets/md/assets/great-frontend.png)
+![Image](./assets/great-frontend.png)
 
 ## FRONT END DEVELOPER
 
 ---
-<!-- .slide: data-background-image="./assets/md/assets/roadmap-fe.png" data-background-color="#fff" data-background-size="auto 95%" data-background-position="center" data-background-repeat=" " data-background-transition="none" -->
+<!-- .slide: data-background-image="./assets/roadmap-fe.png" data-background-color="#fff" data-background-size="auto 95%" data-background-position="center" data-background-repeat=" " data-background-transition="none" -->
 
 ---
 ## FRONT END - SECTION
@@ -39,20 +39,20 @@
 <small>Overview Front-End</small> <!-- .element: class="fragment" -->
 ---
 
-<!-- .slide: data-background-image="./assets/md/assets/fb.jpg" data-background="#3d5d9a" data-background-size="auto 95%" data-background-position="center" data-background-repeat=" " data-background-transition="none" --> <!-- .element: class="fragment" -->
+<!-- .slide: data-background-image="./assets/fb.jpg" data-background="#3d5d9a" data-background-size="auto 95%" data-background-position="center" data-background-repeat=" " data-background-transition="none" --> <!-- .element: class="fragment" -->
 
 ---
 
-<!-- .slide: data-background-image="./assets/md/assets/ig.jpg" data-background="#ab368e" data-background-size="auto 95%" data-background-position="center" data-background-repeat=" " data-background-transition="none" --> <!-- .element: class="fragment" -->
+<!-- .slide: data-background-image="./assets/ig.jpg" data-background="#ab368e" data-background-size="auto 95%" data-background-position="center" data-background-repeat=" " data-background-transition="none" --> <!-- .element: class="fragment" -->
 
 ---
 <p class="text-justify">Front-end web development adalah metode untuk mengonversikan data ke dalam antarmuka pengguna atau tampilan suatu aplikasi/website. Sehingga, pengguna dapat berinteraksi dengan data melalui interaksi visual & digital.</p>
 ---
 <div class="left">
-![Image](./assets/md/assets/person-flat.png)
+![Image](./assets/person-flat.png)
 </div>
 <div class="right">
-![Image](./assets/md/assets/code-flat.png)
+![Image](./assets/code-flat.png)
 </div>
 <br />
 <h3>Front End Developer</h3><!-- .element: class="fragment" -->
@@ -163,16 +163,16 @@
 ---
 ### TOOLS
 <div class="left">
-  ![Image](./assets/md/assets/sublime.png)<!-- .element: class="fragment" -->
+  ![Image](./assets/sublime.png)<!-- .element: class="fragment" -->
 </div>
 <div class="right">
-  ![Image](./assets/md/assets/dw.png)<!-- .element: class="fragment" -->
+  ![Image](./assets/dw.png)<!-- .element: class="fragment" -->
 </div>
 <div class="left">
-  ![Image](./assets/md/assets/gc.png)<!-- .element: class="fragment" -->
+  ![Image](./assets/gc.png)<!-- .element: class="fragment" -->
 </div>
 <div class="right">
-  ![Image](./assets/md/assets/git.png)<!-- .element: class="fragment" -->
+  ![Image](./assets/git.png)<!-- .element: class="fragment" -->
 </div>
 ---
 ## Technique
@@ -237,7 +237,7 @@ small {
 <br />
 <br />
 <div class="right">
-  ![Image](./assets/md/assets/oop.png)<!-- .element: class="fragment" -->
+  ![Image](./assets/oop.png)<!-- .element: class="fragment" -->
 </div>
 ---
 ## Architectural pattern
@@ -255,7 +255,7 @@ small {
 ### Model-view-controller (MVC)
 <p><i>Model-view-controller</i> adalah sebuah metode untuk membuat/membangun sebuah aplikasi dengan memisahkan antar data <i>(Model)</i> dari tampilan <i>(View)</i> dengan bagaimana pemrosesan <i>(Controller)</i> aplikasi itu sendiri.</p> <!-- .element: class="fragment" -->
 ---
-![Image](./assets/md/assets/mvc.png)
+![Image](./assets/mvc.png)
 ---
 ## Framework
 ---
@@ -269,15 +269,15 @@ small {
     <tbody>
       <tr>
         <td class="bg-info" align="center">CSS</td>
-        <td align="center">![Image](./assets/md/assets/bootstrap.png)</td>
-        <td align="center">![Image](./assets/md/assets/zf.jpg)</td>
-        <td align="center">![Image](./assets/md/assets/material.png)</td>
+        <td align="center">![Image](./assets/bootstrap.png)</td>
+        <td align="center">![Image](./assets/zf.jpg)</td>
+        <td align="center">![Image](./assets/material.png)</td>
       </tr>
       <tr>
         <td class="bg-info" align="center">JS</td>
-        <td align="center">![Image](./assets/md/assets/angular.png)</td>
-        <td align="center">![Image](./assets/md/assets/vue.png)</td>
-        <td align="center">![Image](./assets/md/assets/ember.png)</td>
+        <td align="center">![Image](./assets/angular.png)</td>
+        <td align="center">![Image](./assets/vue.png)</td>
+        <td align="center">![Image](./assets/ember.png)</td>
       </tr>
     </tbody>
   </thead>
