@@ -163,16 +163,16 @@
 ---
 ### TOOLS
 <div class="left">
-  ![Image](./assets/sublime.png)<!-- .element: class="fragment" -->
+  ![Image](./assets/sublime.png)
 </div>
 <div class="right">
-  ![Image](./assets/dw.png)<!-- .element: class="fragment" -->
+  ![Image](./assets/dw.png)
 </div>
 <div class="left">
-  ![Image](./assets/gc.png)<!-- .element: class="fragment" -->
+  ![Image](./assets/gc.png)
 </div>
 <div class="right">
-  ![Image](./assets/git.png)<!-- .element: class="fragment" -->
+  ![Image](./assets/git.png)
 </div>
 ---
 ## Technique
